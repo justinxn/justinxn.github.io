@@ -1,6 +1,7 @@
 export const series = {
     '/blogs/docs/typescript/': [
       'introduce',
+      'type-system'
     ],
     // '/docs/theme/': [
     //   {

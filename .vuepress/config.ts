@@ -9,7 +9,7 @@ export default defineUserConfig({
     bundler: viteBundler(),
     theme: recoTheme({
         style: '@vuepress-reco/style-default',
-        logo: '/logo.png',
+        logo: '/head.png',
         author: 'justinxn',
         authorAvatar: '/head.png',
         componentsDir: './components',
